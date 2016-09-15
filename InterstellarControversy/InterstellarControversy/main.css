@@ -1,0 +1,18 @@
+﻿p.ar_text, p.ar_caption  {
+    text-indent: 5em;
+}
+
+p.ar_author{
+    text-align: right;
+}
+
+p.ar_caption {
+    padding: 40% 0;
+}
+section.ar_img_caption{
+    margin-top: 2em;
+}
+
+p.ar_small_caption{
+    padding: 10% 0;
+}

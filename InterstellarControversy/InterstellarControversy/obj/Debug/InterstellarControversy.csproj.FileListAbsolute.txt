@@ -1,0 +1,6 @@
+E:\Documents\Visual Studio 2013\Projects\InterstellarControversy\InterstellarControversy\bin\InterstellarControversy.dll.config
+E:\Documents\Visual Studio 2013\Projects\InterstellarControversy\InterstellarControversy\bin\InterstellarControversy.dll
+E:\Documents\Visual Studio 2013\Projects\InterstellarControversy\InterstellarControversy\bin\InterstellarControversy.pdb
+E:\Documents\Visual Studio 2013\Projects\InterstellarControversy\InterstellarControversy\obj\Debug\InterstellarControversy.csprojResolveAssemblyReference.cache
+E:\Documents\Visual Studio 2013\Projects\InterstellarControversy\InterstellarControversy\obj\Debug\InterstellarControversy.dll
+E:\Documents\Visual Studio 2013\Projects\InterstellarControversy\InterstellarControversy\obj\Debug\InterstellarControversy.pdb
